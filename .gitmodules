@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/devcongress/elections-api
+[submodule "web"]
+	path = web
+	url = https://github.com/devcongress/elections-web
